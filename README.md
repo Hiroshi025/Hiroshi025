@@ -38,7 +38,7 @@
 
 <br />
 
-<details open>
+<details close>
   <summary><h2>Github Estadisticas</h2></summary>
 
 <h3>Github Perfil</h3>
