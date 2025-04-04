@@ -3,49 +3,67 @@
 </h1>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+Amigos!+👋;+Yo Soy+Hiroshi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+Amigos!+👋;+Yo+Soy+Hiroshi!;" />
 </h1>
 
-<br/>
-<br/>
-
 <p align="center">
-  <a href="https://github.com/MikaboshiDev?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MikaboshiDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/MikaboshiDev?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MikaboshiDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/Hiroshi025?tab=repositories&sort=stargazers">
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Hiroshi025?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+  <a href="https://github.com/Hiroshi025?tab=followers">
+    <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Hiroshi025?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
 </p>
 
-<br/>
+---
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-
-<br/>
+<h2 align="center">⚒️ Lenguajes, Frameworks y Herramientas ⚒️</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c" />
 </div>
 
-<br/>
+---
+
+<h2 align="center">📊 Estadísticas Personales 📊</h2>
+
+<div align="center">
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hiroshi025&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="180px"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiroshi025&layout=compact&theme=radical&hide_border=true" height="180px"/>
+</div>
+
+---
+
+<h2 align="center">📚 Documentación de Lenguajes Más Usados 📚</h2>
+
+| Lenguaje     | Descripción                                                                 | Recursos                                                                                     |
+|--------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| **JavaScript** | Lenguaje de programación versátil usado tanto en el frontend como en el backend. | [Documentación Oficial](https://developer.mozilla.org/es/docs/Web/JavaScript) <br> [Guía de Node.js](https://nodejs.org/es/docs/) |
+| **Python**     | Lenguaje de propósito general conocido por su simplicidad y legibilidad.   | [Documentación Oficial](https://docs.python.org/es/3/) <br> [Guía de Django](https://docs.djangoproject.com/es/) |
+| **TypeScript** | Superset de JavaScript que añade tipado estático.                         | [Documentación Oficial](https://www.typescriptlang.org/docs/) <br> [Guía de Angular](https://angular.io/docs) |
+
+---
+
+<h2 align="center">🌐 Conéctate Conmigo 🌐</h2>
+
+<div align="center">
+  <img src="https://discord.c99.nl/widget/theme-3/1272411781641404472.png" alt="Discord Widget"/>
+</div>
 
 <p align="center">
-  <h2>Estadísticas Personales</h2>
-  <a href="https://discord.gg/pgDje8S3Ed"><img alt="Mikaboshi Studio" src="https://github-readme-activity-graph.vercel.app/graph/?username=Hiroshi025&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  <p align="center">
-  </p>
+  <a href="https://twitter.com/tu_usuario">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/tu_usuario">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<br />
+---
 
-<details open>
-  <summary><h2>Github Estadisticas</h2></summary>
+<h2 align="center">💡 Frase Motivadora 💡</h2>
 
-<h3>Github Perfil</h3>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Hiroshi025&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<h3>Lenguajes en Uso</h3>
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Hiroshi025&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a></p>
+  <i>"El éxito no es el final, el fracaso no es fatal: lo que cuenta es el coraje para continuar."</i>
 </p>
-<br/>
-</details>
