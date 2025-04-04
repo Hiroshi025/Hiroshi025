@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+Amigos!+👋;+Yo+Soy+Hiroshi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola+Amigos!+👋;+Yo+Soy+Hiroshi!+" />
 </h1>
 
 <p align="center">
@@ -62,7 +62,8 @@
 
 ---
 
-<h2 align="center">💡 Frase Motivadora 💡</h2>
+<details close>
+  <summary><h2>Github Estadisticas</h2></summary>
 
 <p align="center">
   <i>"El éxito no es el final, el fracaso no es fatal: lo que cuenta es el coraje para continuar."</i>
